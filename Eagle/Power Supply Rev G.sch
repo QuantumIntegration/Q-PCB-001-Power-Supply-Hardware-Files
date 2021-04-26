@@ -1508,7 +1508,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 </part>
 <part name="R1" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" deviceset="RESISTOR" device="" package3d_urn="urn:adsk.eagle:package:21713525/3" value="240"/>
 <part name="C2" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" deviceset="E-CAPACITOR" device="2-4" package3d_urn="urn:adsk.eagle:package:21734552/2" value="1uF"/>
-<part name="C1" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" deviceset="E-CAPACITOR" device="2-4" package3d_urn="urn:adsk.eagle:package:21734552/2" value="100n"/>
+<part name="C1" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" deviceset="E-CAPACITOR" device="2-4" package3d_urn="urn:adsk.eagle:package:21734552/2" value="220n"/>
 <part name="D1" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" deviceset="1N4000" device="" package3d_urn="urn:adsk.eagle:package:20494835/2" value="1N4001"/>
 <part name="R2" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" deviceset="RESISTOR" device="" package3d_urn="urn:adsk.eagle:package:21713525/3" value="390"/>
 <part name="SUPPLY1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
